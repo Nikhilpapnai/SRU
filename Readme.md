@@ -53,7 +53,5 @@ Each model is evaluated using:
   - XGBoost
   - Matplotlib (optional for visualization)
 
----
-
-## Folder Structure
+ ---
 
