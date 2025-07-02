@@ -22,12 +22,14 @@ The dataset includes:
 ## Project Highlights
 
 - Applies **Just-in-Time (JIT) model learning** for adaptive and local prediction
-- Compares multiple traditional regression methods:
+- Implements and compares multiple regression models:
   - Linear Regression
   - Polynomial Regression (degree = 2)
   - Decision Tree Regression
-- Evaluates models on both training and testing data
-- Plans to implement **Neural Networks** in future work
+  - Random Forest Regression
+  - XGBoost Regression
+- Evaluates model performance on both training and testing datasets
+- Plans to implement Neural Networks in future work
 
 ---
 
@@ -44,15 +46,14 @@ Each model is evaluated using:
 ## Tools and Libraries
 
 - **Language**: Python
-- **Libraries**: NumPy, Pandas, Scikit-learn
+- **Libraries**:
+  - NumPy
+  - Pandas
+  - Scikit-learn
+  - XGBoost
+  - Matplotlib (optional for visualization)
 
 ---
 
-## How to Run
+## Folder Structure
 
-1. Clone this repository
-2. Install required dependencies using `pip install -r requirements.txt`
-3. Place your dataset in the `data set/` folder
-4. Run the script:  
-   ```bash
-   python sru_prediction.py
