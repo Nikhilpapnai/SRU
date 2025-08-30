@@ -1,6 +1,7 @@
 # Sulfur Recovery Unit (SRU) Emission Prediction using Machine Learning
 
-**Author:** Nikhil Papnai ---
+**Author:** Nikhil Papnai 
+
 **Supervisor:** Prof. Jayaram Valluru
 
 This project focuses on building a **data-driven soft sensor** to predict emissions from a Sulfur Recovery Unit (SRU) using advanced machine learning and dynamic modeling techniques. The primary objective is to model sulfur emissions based on process and environmental parameters using **Just-in-Time (JIT) modeling**, regression-based learning, and advanced hybrid models including deep learning and graph-based methods.
